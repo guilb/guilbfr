@@ -1,0 +1,76 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_alt_link</custom-field>
+        <custom-field action="translate">_subtitle</custom-field>
+        <custom-field action="translate">_www</custom-field>
+        <custom-field action="translate">_custom_1</custom-field>
+        <custom-field action="translate">_custom_2</custom-field>
+        <custom-field action="translate">_custom_3</custom-field>
+        <custom-field action="translate">_custom_4</custom-field>
+        <custom-field action="translate">_custom_5</custom-field>
+        <custom-field action="translate">_images_n_videos</custom-field>
+        <custom-field action="copy">_image_or_video</custom-field>
+        <custom-field action="copy">_display_on_image</custom-field>
+        <custom-field action="copy">_image_cover_color</custom-field>
+        <custom-field action="copy">_image_cover_top_space</custom-field>
+        <custom-field action="translate">_post_video</custom-field>
+        <custom-field action="copy">_brick_ratio_x</custom-field>
+        <custom-field action="copy">_page_bg_settings</custom-field>
+        <custom-field action="copy">_page_image</custom-field>
+        <custom-field action="copy">_page_image_fit</custom-field>
+        <custom-field action="copy">_page_bg_color</custom-field>
+        <custom-field action="copy">_content_layout</custom-field>
+        <custom-field action="copy">_title_bar_settings</custom-field>
+        <custom-field action="copy">_title_bar_position</custom-field>
+        <custom-field action="copy">_title_bar_bg_color</custom-field>
+        <custom-field action="copy">_title_bar_space_width</custom-field>
+        <custom-field action="copy">_title_bar_title_color</custom-field>
+        <custom-field action="copy">_top_space_settings</custom-field>
+        <custom-field action="copy">_top_space_height</custom-field>
+        <custom-field action="copy">_top_space_bg_color</custom-field>
+        <custom-field action="copy">_widget_area</custom-field>
+        <custom-field action="copy">_sidebar_to_show</custom-field>
+        <custom-field action="copy">_title_bg_color</custom-field>
+        <custom-field action="copy">_order</custom-field>
+        <custom-field action="copy">_enable_desc</custom-field>
+        <custom-field action="copy">_slide_title_bg_color</custom-field>
+        <custom-field action="copy">_theme</custom-field>
+        <custom-field action="copy">_content_brick_ratio_x</custom-field>
+        <custom-field action="copy">_brick_columns</custom-field>
+        <custom-field action="copy">_bricks_max_width</custom-field>
+        <custom-field action="copy">_brick_margin</custom-field>
+        <custom-field action="copy">_bricks_hover</custom-field>
+        <custom-field action="copy">_fit_variant</custom-field>
+        <custom-field action="copy">_autoplay</custom-field>
+        <custom-field action="copy">_transition</custom-field>
+        <custom-field action="copy">_gradient</custom-field>
+        <custom-field action="copy">_thumbs</custom-field>
+        <custom-field action="copy">_album_content</custom-field>
+        <custom-field action="copy">_ken_scale</custom-field>
+        <custom-field action="copy">_exclude_in_albums_list</custom-field>
+        <custom-field action="copy">_pattern</custom-field>
+        <custom-field action="copy">_thumbs_on_load</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">album</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">genre</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="photon_appearance">
+            <key name="logo_text" />
+            <key name="footer_text" />
+            <key name="footer_msg_text" />
+        </key>
+        <key name="photon_blog">
+            <key name="subtitle" />
+        </key>
+        <key name="photon_shop">
+            <key name="subtitle" />
+        </key>
+        <key name="photon_album">
+            <key name="subtitle" />
+        </key>
+    </admin-texts>
+</wpml-config>

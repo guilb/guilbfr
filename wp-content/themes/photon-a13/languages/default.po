@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: photon fe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-10 12:13+0100\n"
+"PO-Revision-Date: 2015-11-10 12:13+0100\n"
+"Last-Translator: Apollo13 <info@apollo13.eu>\n"
+"Language-Team: Apollo13 <info@apollo13.eu>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;a13__fe\n"
+"X-Poedit-Basepath: D:/workspace//photon/photon-a13\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:40
+msgid "The page you are looking for can't be found!"
+msgstr ""
+
+#: 404.php:42
+#, php-format
+msgid ""
+"Go to our <a href=\"%1$s\">home page</a> or go back to <a href=\"%2$s"
+"\">previous page</a>"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/parsers.php:42
+#: advance/admin/a13-wordpress-importer/parsers.php:72
+#: advance/admin/a13-wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/parsers.php:84
+#: advance/admin/a13-wordpress-importer/parsers.php:89
+#: advance/admin/a13-wordpress-importer/parsers.php:279
+#: advance/admin/a13-wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:98
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:106
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:99
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:179
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:219
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:265
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:437
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:315
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:337
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:405
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:577
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:651
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:664
+msgid "Invalid file type"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:708
+msgid "Remote server did not respond"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:714
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:721
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:726
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: advance/admin/a13-wordpress-importer/wordpress-importer.php:732
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: advance/cpt_album.php:235
+msgid "Website"
+msgstr ""
+
+#: advance/head_scripts_styles.php:117
+msgid "Load more"
+msgstr ""
+
+#: advance/head_scripts_styles.php:118
+msgid "Loading next items"
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: advance/inc/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:399
+#: advance/inc/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: advance/inc/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: advance/utilities/header.php:110
+msgid "Full screen"
+msgstr ""
+
+#: advance/utilities/header.php:111
+msgid "Main menu"
+msgstr ""
+
+#: advance/utilities/header.php:112
+msgid "Shop sidebar"
+msgstr ""
+
+#: advance/utilities/header.php:113
+msgid "Hidden sidebar"
+msgstr ""
+
+#: advance/utilities/layout_parts.php:338
+msgid "Search &hellip;"
+msgstr ""
+
+#: advance/utilities/layout_parts.php:347
+msgid "Search"
+msgstr ""
+
+#: advance/utilities/layout_parts.php:498
+msgid "Blog"
+msgstr ""
+
+#: advance/utilities/layout_parts.php:687
+#, php-format
+msgid ""
+"Use this switcher to see different possible combinations of settings. You "
+"can turn off this switcher in theme options: %s."
+msgstr ""
+
+#: advance/utilities/layout_parts.php:745 advance/utilities/posts.php:131
+#: archives_template.php:37 page.php:38
+msgid "Pages: "
+msgstr ""
+
+#: advance/utilities/posts.php:203
+msgid "Previous article"
+msgstr ""
+
+#: advance/utilities/posts.php:210
+msgid "Next article"
+msgstr ""
+
+#: advance/utilities/posts.php:276 content.php:27 content.php:35
+msgid "Read more ..."
+msgstr ""
+
+#: advance/utilities/posts.php:322
+msgid "Older Comments"
+msgstr ""
+
+#: advance/utilities/posts.php:326
+msgid "Newer Comments"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:113
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:231 woocommerce/content-product.php:96
+msgid "Out of stock"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:236 woocommerce/content-product.php:101
+msgid "Sale!"
+msgstr ""
+
+#: advance/utilities/woocommerce.php:240 woocommerce/content-product.php:105
+msgid "New!"
+msgstr ""
+
+#: advance/widgets.php:13
+msgid "comment(s)"
+msgstr ""
+
+#: advance/widgets.php:160
+msgid "Recent Posts"
+msgstr ""
+
+#: advance/widgets.php:250
+msgid "Popular Posts"
+msgstr ""
+
+#: advance/widgets.php:340
+msgid "Related Posts"
+msgstr ""
+
+#: advance/widgets.php:509
+msgid "Recent Albums"
+msgstr ""
+
+#: advance/widgets.php:613
+msgid "Contact information"
+msgstr ""
+
+#: advance/widgets.php:778
+msgid "Social Icons"
+msgstr ""
+
+#: albums-list.php:65
+#, php-format
+msgid "%1$s : %2$s"
+msgstr ""
+
+#: archives_template.php:43
+#, php-format
+msgid "Latest %d posts"
+msgstr ""
+
+#: archives_template.php:65
+#, php-format
+msgid "Top %d categories"
+msgstr ""
+
+#: archives_template.php:78
+#, php-format
+msgid "Top %d tags"
+msgstr ""
+
+#: attachment.php:39 attachment.php:41
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+# By Jan Kowalski
+#: attachment.php:46
+#, php-format
+msgid "By %1$s"
+msgstr ""
+
+#: attachment.php:49
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: attachment.php:56
+#, php-format
+msgid "<span>Published %1$s</span>"
+msgstr ""
+
+#: attachment.php:65
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:68
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:76
+msgid "Edit"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "%d comment(s)"
+msgstr ""
+
+#: index.php:26
+#, php-format
+msgid "%1$d Search results for \"%2$s\""
+msgstr ""
+
+#: index.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: index.php:32
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: index.php:34
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: index.php:36
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: index.php:38
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: index.php:40
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: index.php:42
+msgid "Blog Archives"
+msgstr ""
+
+#: loop.php:25
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: no-content.php:13
+#, php-format
+msgid "<a href=\"%1$s\">Go back</a> or use Site Map below:"
+msgstr ""
+
+#: no-content.php:18
+msgid "Main navigation"
+msgstr ""
+
+#: no-content.php:57
+msgid "Albums"
+msgstr ""
+
+#: parts/genre-filter.php:36
+msgid "Filter"
+msgstr ""
+
+#: parts/genre-filter.php:37
+msgid "All"
+msgstr ""
+
+#: password_template.php:44
+msgid "This content is password protected"
+msgstr ""
+
+#: password_template.php:45
+msgid "To view it please enter your password below"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:43
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:44
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:22
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:23
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:24
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:31
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#, fuzzy
+#~ msgid "My cart"
+#~ msgstr "Moje albumy"

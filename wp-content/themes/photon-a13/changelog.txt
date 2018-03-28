@@ -1,0 +1,310 @@
+<a href="http://apollo13.eu/docs/photon/#!/installation_update_update_theme">How to update</a>
+
+
+1.3.0(13.04.2017)
+
+Added:
+-Compatibility with WooCommerce 3.0.2
+
+----------------
+
+1.2.9(07.11.2016)
+
+Added:
+-albums list - alt and title attributes for images
+-single album in bricks mode - alt and title attributes for images
+-single album in slider mode - alt attribute for images
+
+Fixed:
+-bug in Chrome with testing autoplay feature
+-removed jQuery resize plugin that was not used and could conflict with other plugins
+
+----------------
+
+1.2.8(29.09.2016)
+
+Added:
+-Animated GIFs now works in Bricks Albums and Slider Albums
+
+Changed:
+-turn off zoom and download control lightbox by default
+
+Fixed:
+-Not working description in slider when lightbox is turned off
+-Social icons from AddToAny plugin, that was not working since plugin version 1.7.0
+
+----------------
+
+1.2.7(17.08.2016)
+
+Added:
+-Compatibility for WooCommerce 2.6.4
+
+Fixed:
+-Issue with small social icons in our slider
+
+----------------
+
+1.2.6(13.07.2016)
+
+Added:
+-Social icons for theme slider(with AddToAny)
+
+Fixed:
+-Compatibility for WooCommerce 2.6.1
+-Footer switch not working when there is only message
+
+Updated:
+-Font awesome icons to version 4.6.3
+
+----------------
+
+1.2.5(15.06.2016)
+
+Fixed:
+-Compatibility for WooCommerce 2.6
+-password protected template fix
+
+Removed:
+-Max height for footer, as it made issues on smaller heights.
+
+Updated:
+-TGMPA plugin
+
+----------------
+
+1.2.4(13.04.2016)
+
+Fixed:
+-Compatibility with WordPress 4.5
+-Video in album on mobile was unplayable in certain conditions
+-Fix for issue when album is relunched on retina screen while using jetpack plugin
+-Debug info on 404 error page
+
+----------------
+
+
+1.2.3(26.01.2016)
+
+Fixed:
+-Language switching on subpages with AJAX mode on
+-WPML issues in albums
+
+----------------
+
+
+1.2.2(20.01.2016)
+
+Added:
+-Compatibility for WooCommerce 2.5.x - theme now requires this version WooCommerce plugin
+
+Updated:
+-templates for WooCommerce 2.5.x
+
+----------------
+
+
+1.2.1(19.01.2016)
+
+Added:
+-Option to set transition effect and speed in default lightbox(Photon Advanced -&gt; Miscellaneous settings -&gt; lightGallery)
+-Option to set scale of ken burns effect(while editing album) - thanks thtest
+-option to disable content of album in bricks layout per album(while editing album)
+
+Fixed:
+-Changed Author field in style.css, so theme should work better now with Envato WordPress Toolkit plugin
+-WPML issue when using Album as front page(thanks marco3253)
+
+Updated:
+-LightGallery to version 1.2.14
+
+----------------
+
+
+1.2.0(10.12.2015)
+
+Fixed:
+-Comment form in WordPress 4.4
+
+----------------
+
+
+1.1.9(07.12.2015)
+
+Added:
+-Options for colors in default lightbox(Photon Advanced -&gt; Miscellaneous settings -&gt; lightGallery)
+
+Changed:
+-better work of video poster in slider album
+
+Fixed:
+-Displaying of thumbs in ligthbox. They were stretched.
+-Displaying header indicator when footer message was deactivated
+-fix for displaying shop sidebar when on front page
+
+Updated:
+-Language file for admin area
+
+----------------
+
+
+
+1.1.8(10.11.2015)
+
+Added:
+-Option to select if full screen button should focus on content or background images in pages and posts
+(Customizing -&gt; Global Layout -&gt; Header -&gt; Main Settings -&gt;  Behaviour of full screen button on pages and posts)
+-options for themes default lightbox(Photon Advanced -&gt; Miscellaneous settings -&gt; lightGallery)
+
+Changed:
+-Loading of new items on filtered albums list(now without misleading hiding animation)
+-Improved templates for media tags and media categories(still need some work)
+
+Updated:
+-Script for lightbox(lightGallery 1.2.6)
+-Language file for admin area
+
+----------------
+
+
+
+1.1.7(23.10.2015)
+
+Fixed:
+-Mobile menu crash on Ajax(thanks digitalmuse! )
+
+----------------
+
+
+1.1.6(20.10.2015)
+
+Added:
+-"None" effect for Albums list and single album bricks
+
+Fixed:
+-One click Demo data import for older PHP versions
+-Ajax issues on iOS systems
+
+----------------
+
+
+1.1.5(29.09.2015)
+
+Added:
+-Allowfullscreen attribute to all iframes that we use for video(thanks Jakyll)
+-Option to choose from two types of sharing in bricks album, more details <a href="http://apollo13.eu/docs/photon/#!/single_album_appearance_bricks">here</a>
+
+----------------
+
+
+1.1.4(09.09.2015)
+
+Added:
+-Minimalistic demo set
+
+Changed:
+-If using build in WordPress Site icon(Appearance -> Customize and clicking on Site Identity), then theme one will not show up
+-Sharing of albums, we recommend using <a href="https://wordpress.org/plugins/wonderm00ns-simple-facebook-open-graph-tags/">this plugin</a> for better sharing experience
+-When sharing photo in bricks album now it will open in lightbox after clicking link to it(it needs fresh share after updating theme)
+
+Fixed:
+-Small layout fix for customizer in WordPress 4.3
+-Critical issue for redeclaring functions in templates(thanks afanwebs)
+-Filter when using non-english chars in slugs(thanks KarunkaM )
+
+Updated:
+-predefined demo sets
+-demo data for import
+-language files - nothing really important
+
+----------------
+
+
+1.1.3(20.08.2015)
+
+Added:
+-Compatibility for WordPress 4.3
+
+Updated:
+-Font awesome icons to version 4.4.0
+
+----------------
+
+
+1.1.2(11.08.2015)
+Changed:
+-Updated to work with WooCommerce 2.4.x
+
+----------------
+
+
+1.1.1(03.08.2015)
+Changed:
+-Better scrolling to anchors
+
+Added:
+-translation for 'All photos' in lightGallery lightbox plugin(thanks David!)
+-option to exclude album from listing it in Albums list
+
+Updated:
+-front end language file
+-admin language file
+
+----------------
+
+
+1.1.0(14.07.2015)
+Added:
+-AJAX option for continuous music - <a href="http://apollo13.eu/docs/photon/#!/ajax_settings">read more</a>
+-We are officially compatible with WPML plugin - <a href="http://apollo13.eu/docs/photon/#!/translating_theme_wpml">read more</a>
+
+Changed:
+-Removed related videos at end of YouTube video in album slider
+
+Fixed:
+-Search form in WPML
+-Main menu WPML language switcher
+-Error on not existing music file
+
+Updated:
+-WPML config file
+-Envato WordPress Toolkit to version 1.7.3
+
+Additionally:
+-New horizons passed past Pluto!
+
+----------------
+
+1.0.2(24.06.2015)
+
+Added:
+-Closing X for hidden sidebars(thanks romand700)
+-Scrolling to menu anchors
+
+Fixed:
+-returned option for selecting main Albums list page
+-minor styling issues
+-double title tag issue
+-repaint issues on webkit browsers(thanks romand700)
+
+Changed:
+-page now don't scroll up, when sidebar is opened
+
+Updated:
+-Languages admin files
+
+----------------
+
+1.0.1(03.06.2015)
+
+Added:
+-option to set each image in album to link have "add to cart" button.
+
+Changed:
+-Hidden some not working yet theme options
+
+Updated:
+-Languages files
+
+----------------
+

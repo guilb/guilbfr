@@ -1,0 +1,1 @@
+Please refer to http://apollo13.eu/docs/photon/

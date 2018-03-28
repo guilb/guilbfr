@@ -1,0 +1,39 @@
+a:hover,
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover, h6 a:hover,
+.post .post-title a:hover,
+.menu-opener.open::before,
+.menu-opener:hover::before,
+.posts-nav a:hover span,
+.posts-nav a:hover i,
+a.comment-reply-link,
+#cancel-comment-reply-link,
+.post .post-meta a,
+.widget .author,
+.widget a:hover,
+.woocommerce .widget_layered_nav ul li a:hover,
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce.widget_layered_nav_filters ul li.chosen a ,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover{
+	color: #fff/*$color*/;
+}
+
+
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+a.project-site:hover,
+.navigation .current, .navigation a:hover,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce .quantity .minus:hover,
+.woocommerce .quantity .plus:hover,
+#footer-msg-indicator {
+	background-color: #fff/*$color*/;
+}
